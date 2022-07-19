@@ -18,19 +18,19 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285162634171','0','6285748894171']
-global.pemilik = ['6285748894171']
-global.premium = ['6285162634171']
-global.pengguna = 'Nakata'
-global.botnma = 'NahBotz-MD'
-global.footer = 'Nakataa' //FooterText Biar Di Bawah Nya Ada Text 
-global.web = 'https://youtube.com/c/NakataZ' // Ubah Sama Lu Web Nya Bebas 
-global.web2 = 'https://github.com/nakataaard' //Ubah Jga Bebas Sama lu 
-global.ganti = 'Y O U T U B E ME' //Edit Terserah Lu Mau Apa
+global.owner = ['6289666747744','6289666747744','6289666747744']
+global.pemilik = ['6289666747744']
+global.premium = ['6289666747744']
+global.pengguna = 'Prasz'
+global.botnma = 'KurobuBotz-MD'
+global.footer = 'Prasz' //FooterText Biar Di Bawah Nya Ada Text 
+global.web = 'https://youtube.com/channel/UCy3Dl_pqcIs2Dbdtq23IA3A' // Ubah Sama Lu Web Nya Bebas 
+global.web2 = 'https://github.com/Prasbot1' //Ubah Jga Bebas Sama lu 
+global.ganti = 'Youtube Owner' //Edit Terserah Lu Mau Apa
 global.ganti2 = 'Github'
-global.ownernma = 'Nakataa'
-global.packname = 'NahBotz'
-global.author = 'NahBotz'
+global.ownernma = 'Prasz'
+global.packname = 'KurobuBotz'
+global.author = 'KurobuBotz'
 global.sessionName = 'nahh'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -42,7 +42,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: 'Wait a Minute Second',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
